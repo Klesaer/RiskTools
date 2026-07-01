@@ -1,0 +1,16 @@
+site_name: RiskTools Documentation
+site_description: Documentation for the pricing engine, KRM, and risk management topics
+site_author: RiskTools Team
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Pricing Engine: pricing-engine/index.md
+  - KRM: krm/index.md
+  - Risk Topics:
+      - IRRBB: risk-topics/irrbb/index.md
+      - Liquidity: risk-topics/liquidity/index.md
+      - FTP: risk-topics/ftp/index.md
+      - Balance Sheet Management: risk-topics/balance-sheet-management/index.md
+      - FRTB: risk-topics/frtb/index.md
+  - Examples: examples/index.md
+  - API Reference: api/index.md
